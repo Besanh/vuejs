@@ -1,0 +1,6 @@
+- Directive:
+  + Attach event listener
+  + Example: v-on:click
+  + Shorter: @click
+  + Link: https://vuejs.org/api/built-in-directives.html#v-on
+  + v-if
